@@ -1,0 +1,14 @@
+term=kitty
+location=right
+width=450
+prompt= What are you feeling?
+show_all=true
+gtk_dark=false
+insensitive=false
+allow_markup=true
+allow_images=true
+line_wrap=word
+lines=15
+no_actions=true
+hide_scroll=true
+image_size=16
