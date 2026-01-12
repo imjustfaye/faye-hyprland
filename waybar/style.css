@@ -103,3 +103,13 @@ tooltip label{
 	background-color: #2f2536;
         font-weight: normal;
 }
+
+#custom-swaync {
+        background-color: #2f2536;
+        color: #f3e3ff;
+        padding: 0px 6px;
+	margin: 0px 3px;
+	border-radius: 50px;
+	font-weight: normal;
+}
+
